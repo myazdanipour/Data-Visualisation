@@ -1,12 +1,3 @@
-Creating a well-organised README file with photos and descriptions is a great way to showcase your portfolio! Below is the structure and sample code to help you format it for GitHub.
-
-    Create a README file: In your repository, add a new file named README.md.
-    Add Content: Use Markdown to format the content and display images with descriptions.
-
-Here’s a basic structure for your README file:
-
-markdown
-
 # Amazonian Dashboard
 
 Welcome to my GitHub portfolio! Here, I showcase various projects, images, and descriptions of my work.
