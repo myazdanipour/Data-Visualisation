@@ -6,7 +6,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Conducted data cleaning and validation to ensure accuracy.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Applied data modelling processes to establish relationships between data tables.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Utilised DAX, measures, and calculated columns to enrich the data.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Developed multi-level dashboards including Executive Dashboard, Departments Dashboard, Regional Dashboard, and Customers Dashboard.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Developed multi-level dashboards including Executive Dashboard, Departments Dashboard, Regional Dashboard, and Customers  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dashboard.
+
+
 
 ### 🟠 Technologies Used: 
 
